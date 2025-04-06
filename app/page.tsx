@@ -1,4 +1,4 @@
-// app/page.tsx
+
 import WalletButton from "@/components/WalletButton";
 
 export default function Home() {

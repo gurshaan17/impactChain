@@ -1,4 +1,3 @@
-// app/providers/solana-wallet-provider.tsx
 'use client';
 
 import { ReactNode, useMemo } from "react";
