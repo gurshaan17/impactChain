@@ -1,11 +1,12 @@
 
-import WalletButton from "@/components/WalletButton";
+import { Footer } from "@/components/Footer";
+import { Navbar } from "@/components/Navbar";
 
 export default function Home() {
   return (
     <main className="p-8">
-      <h1 className="text-3xl font-bold">Welcome to ImpactChain</h1>
-      <WalletButton />
+      <Navbar />
+      <Footer />
     </main>
   );
 }
