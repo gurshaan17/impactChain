@@ -7,6 +7,7 @@ export default function Home() {
     <main className="p-8">
       <Navbar />
       <Footer />
+      
     </main>
   );
 }
